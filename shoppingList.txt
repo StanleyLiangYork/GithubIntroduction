@@ -5,3 +5,5 @@ Orange
 Banana
 Cherry
 Grape
+pear
+cereal
