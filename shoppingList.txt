@@ -9,4 +9,4 @@ pear
 cereal
 cucombers
 raddishes
-walnut
+English walnut
